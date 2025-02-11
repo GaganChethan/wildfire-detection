@@ -9,3 +9,4 @@ Technologies Used
 Python 🐍
 OpenCV & TensorFlow 🔍
 IoT & Cloud Integration ☁️
+https://firewatch-hosted.vercel.app/wildfire
